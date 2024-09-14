@@ -44,17 +44,17 @@
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_linux.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_git.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_github.svg" width="60" fill="none" />
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_gitlab.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_html.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_css.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_nodejs.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_bootstrap.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_tailwind.svg" width="60" fill="none" />
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_netlify.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_firebase.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_vercel.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_surge.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_railway.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_regex.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_jwt.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_js.svg" width="60" fill="none" />
@@ -63,6 +63,7 @@
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_jest.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_mocha.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_reactrouter.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_redux.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_docker.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_mysql.svg" width="60" fill="none" />
@@ -71,6 +72,7 @@
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_chai.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_sinon.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_sequelize.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_express.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_py.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_java.svg" width="60" fill="none" />
@@ -93,9 +95,6 @@
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_nextjs.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_mui.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_jquery.svg" width="60" fill="none" />
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_angular.svg" width="60" fill="none" />
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_ionic.svg" width="60" fill="none" />
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_mongo.svg" width="60" fill="none" />
   </a>
 </p>
 
@@ -106,8 +105,12 @@
 <div align="center">
 <p align="center">
   <a href="https://github.com/DevPatrickFonseca/DevPatrickFonseca">
+    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_angular.svg" width="60" fill="none" />
+    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_ionic.svg" width="60" fill="none" />
+    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_mongo.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_redis.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_aws.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_rabbitmq.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_rancher.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_kubernetes.svg" width="60" fill="none" />
