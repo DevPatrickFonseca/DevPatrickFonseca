@@ -37,43 +37,38 @@
 <div align="center">
 <p align="center">
   <a href="https://github.com/DevPatrickFonseca/DevPatrickFonseca">
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_ps.svg" width="60" fill="none" />
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_ai.svg" width="60" fill="none" />
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_coreldraw.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_figma.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_linux.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_git.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_github.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_html.svg" width="60" fill="none" />
-  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_css.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_nodejs.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_bootstrap.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_tailwind.svg" width="60" fill="none" />
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_firebase.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_vercel.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_surge.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_railway.svg" width="60" fill="none" />
-  <br>
-    <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_regex.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_jwt.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_js.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_ts.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_tl.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_jest.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_mocha.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_reactrouter.svg" width="60" fill="none" />
-  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_redux.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_docker.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_mysql.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_postgre.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_dbeaver.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_chai.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_sinon.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_sequelize.svg" width="60" fill="none" />
-  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_express.svg" width="60" fill="none" />
+  <br>
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_py.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_java.svg" width="60" fill="none" />
     <img src="https://github.com/DevPatrickFonseca/DevPatrickFonseca/blob/main/src/icons/ic_maven.svg" width="60" fill="none" />
